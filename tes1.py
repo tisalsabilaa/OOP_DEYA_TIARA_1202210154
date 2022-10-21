@@ -1,0 +1,2 @@
+nama = "tisa"
+print(nama)
